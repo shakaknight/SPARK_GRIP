@@ -10,9 +10,9 @@ This is the project made when i was intern in spark foundation
 * Each element could be e.g. if the Logo exists, the navigation bar appears, the name on about us page is correct, etc.
 
 ## Platform Build on:
-Editor: Eclipse
+**Editor:** Eclipse
 
-OS: windows
+**OS:** windows
 
 
 ## Running the Test
