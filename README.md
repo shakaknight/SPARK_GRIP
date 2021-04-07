@@ -1,4 +1,4 @@
-# SPARK_GRIP
+# Graduate Rotational Internship Program || The Sparks Foundation
 This is the project is made as an intern in spark foundation
 
 **Youtube playlist used to learn selenium:**
