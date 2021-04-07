@@ -1,5 +1,5 @@
 # Graduate Rotational Internship Program || The Sparks Foundation
-This is the project is made as an intern in spark foundation
+This is the project made when i was intern in spark foundation
 
 **Web & Mobile Development Task #6**
 * Read up about Testing.
@@ -11,6 +11,7 @@ This is the project is made as an intern in spark foundation
 
 ## Platform Build on:
 Editor: Eclipse
+
 OS: windows
 
 
