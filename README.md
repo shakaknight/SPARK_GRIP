@@ -21,7 +21,7 @@ As i used the eclipse editor. Simply right click in the opened java class file a
 ```
 
 ## Approch Used
-* This was a version control, so used and maven project.
+* This was a version control, so used a maven project.
 * Learned and implemented 
 
 **Youtube playlist used to learn selenium:**
