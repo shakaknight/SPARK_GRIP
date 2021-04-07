@@ -20,6 +20,10 @@ This is the project made when i was intern in spark foundation
 As i used the eclipse editor. Simply right click in the opened java class file and click run.
 ```
 
+## Approch Used
+* This was a version control, so used and maven project.
+* Learned and implemented 
+
 **Youtube playlist used to learn selenium:**
 https://youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm
 
