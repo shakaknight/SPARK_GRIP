@@ -22,7 +22,7 @@ As i used the eclipse editor. Simply right click in the opened java class file a
 
 ## Approch Used
 * This was a version control, so used a maven project.
-* Learned and implemented 
+* Learned from the channel and implemented it.
 
 **Youtube playlist used to learn selenium:**
 https://youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm
